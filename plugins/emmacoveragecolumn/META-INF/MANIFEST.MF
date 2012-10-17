@@ -1,0 +1,18 @@
+Manifest-Version: 1.0
+Archiver-Version: Plexus Archiver
+Created-By: Apache Maven
+Built-By: debert
+Build-Jdk: 1.6.0_27
+Extension-Name: emmacoveragecolumn
+Implementation-Title: emmacoveragecolumn
+Implementation-Version: 0.0.4
+Group-Id: org.jenkins-ci.plugins
+Short-Name: emmacoveragecolumn
+Long-Name: Emma Line Coverage Column
+Url: http://wiki.jenkins-ci.org/display/JENKINS/Emma+Coverage+Column
+Plugin-Version: 0.0.4
+Hudson-Version: 1.434
+Jenkins-Version: 1.434
+Plugin-Dependencies: emma:1.25
+Plugin-Developers: Dan Ebert:danebert:mathin@mathin.com
+

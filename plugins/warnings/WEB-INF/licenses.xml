@@ -1,0 +1,22 @@
+<l:dependencies xmlns:l='licenses'>
+  <l:dependency name='Warnings Plug-in' groupId='org.jvnet.hudson.plugins' artifactId='warnings' version='4.18' url='http://wiki.jenkins-ci.org/x/G4CGAQ'>
+    <l:description>This plug-in reads the compiler warnings from the
+    console log file and generates a trend report.</l:description>
+    <l:license name='MIT license' />
+    <l:license name='LGPL' />
+    <l:license name='BSD license' />
+  </l:dependency>
+  <l:dependency name='FindBugs-Annotations' groupId='com.google.code.findbugs' artifactId='annotations' version='2.0.0' url='http://findbugs.sourceforge.net/'>
+    <l:description>Annotation supports the FindBugs tool</l:description>
+    <l:license name='GNU Lesser Public License' url='http://www.gnu.org/licenses/lgpl.html' />
+  </l:dependency>
+  <l:dependency name='Commons IO' groupId='commons-io' artifactId='commons-io' version='2.2' url='http://commons.apache.org/io/'>
+    <l:description>The Commons IO library contains utility classes, stream implementations, file filters, 
+file comparators, endian transformation classes, and much more.</l:description>
+    <l:license name='The Apache Software License, Version 2.0' url='http://www.apache.org/licenses/LICENSE-2.0.txt' />
+  </l:dependency>
+  <l:dependency name='FindBugs-jsr305' groupId='com.google.code.findbugs' artifactId='jsr305' version='2.0.0' url='http://findbugs.sourceforge.net/'>
+    <l:description>JSR305 Annotations for Findbugs</l:description>
+    <l:license name='The Apache Software License, Version 2.0' url='http://www.apache.org/licenses/LICENSE-2.0.txt' />
+  </l:dependency>
+</l:dependencies>

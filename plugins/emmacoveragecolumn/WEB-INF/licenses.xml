@@ -1,0 +1,16 @@
+<l:dependencies xmlns:l='licenses'>
+  <l:dependency name='Emma Line Coverage Column' groupId='org.jenkins-ci.plugins' artifactId='emmacoveragecolumn' version='0.0.4' url='http://wiki.jenkins-ci.org/display/JENKINS/Emma+Coverage+Column'>
+    <l:description />
+  </l:dependency>
+  <l:dependency name='EasyMock' groupId='org.easymock' artifactId='easymock' version='2.2' url='http://www.easymock.org'>
+    <l:description>EasyMock provides Mock Objects for interfaces in JUnit tests by generating them on the fly using Java's proxy mechanism</l:description>
+    <l:license name='MIT License' url='http://www.easymock.org/License.html' />
+  </l:dependency>
+  <l:dependency name='cglib' groupId='cglib' artifactId='cglib-nodep' version='2.1_3' url='http://cglib.sourceforge.net/'>
+    <l:description />
+  </l:dependency>
+  <l:dependency name='EasyMock class extension' groupId='org.easymock' artifactId='easymockclassextension' version='2.2' url='http://www.easymock.org'>
+    <l:description>The EasyMock Class Extension allows to generate Mock Objects for classes</l:description>
+    <l:license name='MIT License' url='http://www.easymock.org/License.html' />
+  </l:dependency>
+</l:dependencies>
